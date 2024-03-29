@@ -1,0 +1,26 @@
+.pacifico-regular {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+  background-color: black;
+  padding: 20px;
+  text-align: center;
+  color: white;
+  font-size: 50px;
+}
+.colums {
+  margin: 20px;
+  text-align: center;
+  padding: 10px;
+  margin-left: 70px;
+}
+.colums1 {
+  margin: 20px;
+  text-align: center;
+  padding: 10px;
+  margin-left: 70px;
+}
+.ventan {
+  padding: 10px;
+  text-align: center;
+}

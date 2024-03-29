@@ -1,0 +1,63 @@
+.rubik-bubbles-regular {
+  font-family: "Rubik Bubbles", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  background-color: black;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+.img1 {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+.img1 p {
+  margin-right: 40px;
+  margin-left: 20px;
+  font-size: 18px;
+}
+.img2 {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+.img2 p {
+  margin-right: 40px;
+  margin-left: 20px;
+  font-size: 18px;
+}
+.img3 {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+.img3 p {
+  margin-right: 40px;
+  margin-left: 20px;
+  font-size: 18px;
+}
+.img4 {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+.img4 p {
+  margin-right: 40px;
+  margin-left: 20px;
+  font-size: 18px;
+}
+.img5 {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+.img5 p {
+  margin-right: 40px;
+  margin-left: 20px;
+  font-size: 18px;
+}
+.ventan {
+  padding: 20px;
+  text-align: center;
+}

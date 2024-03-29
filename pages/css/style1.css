@@ -1,0 +1,24 @@
+.pacifico-regular {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+  background-color: rgb(0, 0, 0);
+  padding: 15px;
+  text-align: center;
+  font-size: 50px;
+  color: rgb(230, 221, 221);
+}
+.p1 {
+  background-color: rgb(255, 255, 255);
+  padding: 20px;
+  font-size: 20px;
+  margin: 5px 30px 0 30px;
+}
+.acordion {
+  margin: 20px;
+  border: 2px solid black;
+}
+.ventan {
+  text-align: center;
+  padding: 10px;
+}
